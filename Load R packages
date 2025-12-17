@@ -1,0 +1,16 @@
+install.packages(c("tidyverse", "janitor", "lubridate", "scales"))
+
+# ====================================
+# 01_load_packages.R
+# Purpose: Load all required R packages for the project
+# ====================================
+
+# Install packages if not already installed
+# Uncomment and run the line below only once
+# install.packages(c("tidyverse", "janitor", "lubridate", "scales"))
+
+# Load libraries
+library(tidyverse)   # Includes dplyr, ggplot2, readr, tidyr, etc.
+library(janitor)     # Clean column names, check duplicates
+library(lubridate)   # Work with dates easily
+library(scales)      # Formatting for plots (percent, currency, thousands)
