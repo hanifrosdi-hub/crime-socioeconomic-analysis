@@ -84,10 +84,12 @@ ________________________________________________________________________________
 
 Key Insights (Summary)
 
-1. Certain states with lower median income and higher poverty rates show a higher prevalence of specific crimes.
+1. High-income states tend to report higher crime rates, suggesting a moderate positive correlation between income and crime.
 
-2. Gender differences in labor participation may influence socioeconomic conditions, which in turn correlate with crime trends.
+2. Socioeconomic factors alone do not fully explain crime distribution; other factors such as urbanization, population density, reporting intensity, and policing coverage likely play significant roles.
 
-3. Temporal analysis highlights changes over time, allowing policymakers to evaluate the impact of economic programs on crime reduction.
+3. Temporal trends highlight how crime patterns evolve over time, providing context for evaluating policies and socioeconomic programs.
+
+4. Gender differences in labor participation and poverty rates provide additional context but are not sufficient to explain state-level crime variations.
 
 *Detailed visualizations and interactive charts are available in the HTML report for deeper exploration.*
